@@ -121,7 +121,7 @@ content="width=device-width,initial-scale=1.0">
 ```
 
 ## Output:
-![OUTPUT](./static/Image/BookCover1.png)
+![OUTPUT](./Image/BookCover1.png)
 
 ## Result:
 The Program is executed Successfully.
